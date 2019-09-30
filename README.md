@@ -11,4 +11,8 @@ Calculator
 
 ### 3. Navigate to calculator 
 
-1. Go to `http://127.0.0.1:8000/compute`
+1. Go to `http://127.0.0.1:8000`
+
+### 4. Run tests
+
+1. Run `bin/phpunit`
