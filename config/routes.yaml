@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+
+compute:
+    path: /compute
+    controller: App\Controller\DefaultController::compute
